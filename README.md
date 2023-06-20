@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A full-stack developer which loves building and automating stuff.</h3>
-
 <p align="center">
   The tools I use to create applications are: Python, Javascript/Typescript, Go and their ecosystem.   
 </p>
