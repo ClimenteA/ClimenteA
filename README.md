@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alin Climente</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A full-stack developer which loves building and automating stuff.</h3>
 
 <p align="center">
