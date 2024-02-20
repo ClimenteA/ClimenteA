@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with Python, Javascript, Go. 
 
-If you are looking for a new developer checkout [my CV here](https://drive.google.com/file/d/1qOind3-fQe_BPunuf8YVpxp_LtlqBnc2/view)
+If you are looking for a new developer [checkout my CV here](https://drive.google.com/file/d/1qOind3-fQe_BPunuf8YVpxp_LtlqBnc2/view)
 
 
 <p align="center"> 
