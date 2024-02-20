@@ -1,7 +1,6 @@
 ## Hi 🤓,
 
-I'm a full-stack developer with Python, Javascript, Go. If you are looking for a new developer checkout my CV:
-<a href="https://drive.google.com/file/d/1qOind3-fQe_BPunuf8YVpxp_LtlqBnc2/view" target="_blank" rel="noreferrer"> <img src="https://www.arijuels.com/wp-content/uploads/2013/09/cv_icon_red.png" alt="Download CV" width="40" height="40"/> </a>
+I'm a full-stack developer with Python, Javascript, Go. If you are looking for a new developer checkout my [CV here](https://drive.google.com/file/d/1qOind3-fQe_BPunuf8YVpxp_LtlqBnc2/view)
 
 
 <p align="center"> 
