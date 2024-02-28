@@ -11,3 +11,7 @@ If you are looking for a new developer [checkout my CV here.](https://drive.goog
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 </p>
+
+
+[![](https://github-readme-stats.vercel.app/api?username=suqingdong&show_icons=true&theme=react)](https://github.com/suqingdong?tab=repositories)
+
