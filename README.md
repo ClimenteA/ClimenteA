@@ -14,6 +14,7 @@ If you are looking for a new developer [checkout my CV here.](https://drive.goog
 
 </p>
 
-
 [![](https://github-readme-stats.vercel.app/api?username=ClimenteA&show_icons=true&theme=react)](https://github.com/ClimenteA?tab=repositories)
 
+
+<a href="https://www.buymeacoffee.com/climentea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
