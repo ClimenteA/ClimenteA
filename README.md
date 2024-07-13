@@ -14,6 +14,7 @@ If you are looking for a new developer [checkout my CV here.](https://drive.goog
 
 </p>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="climentea" data-color="#FFDD00" data-emoji="🍺"  data-font="Poppins" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 [![](https://github-readme-stats.vercel.app/api?username=ClimenteA&show_icons=true&theme=react)](https://github.com/ClimenteA?tab=repositories)
 
