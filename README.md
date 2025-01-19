@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer with Python, Javascript, Go. 
 
-If you are looking for a new developer [checkout my CV here.](https://drive.google.com/file/d/1Z9kxj9aMfUKMAQM72h0SO2n8gGSRy2Un/view)
+My developer CV here: [checkout my CV here.](https://drive.google.com/file/d/1Z9kxj9aMfUKMAQM72h0SO2n8gGSRy2Un/view)
 
 [Here is a video of me on youtube](https://www.youtube.com/watch?v=YVDiN6u7iaQ) proudly presenting a side-project.
 
